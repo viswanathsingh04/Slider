@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SliderSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title">Testing Title Message</string>
+    <string name="news_des">qwertyuiopsdfghjkzxcvbn exrcvbhnjmkxdcfvgbhn xcvbn</string>
+    <string name="time">4d</string>
+    <string name="News_Papaer">News_Papaer</string>
+</resources>
